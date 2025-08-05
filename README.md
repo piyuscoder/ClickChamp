@@ -1,4 +1,5 @@
 # 🖱️ClickChamp Game
+Play game :   https://piyuscoder.github.io/ClickChamp/
 
 A simple mouse clicker game built using **HTML**, **CSS**, and **JavaScript**. Click as many times as you can in **15 seconds** and challenge your clicking speed!
 
